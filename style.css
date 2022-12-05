@@ -1,0 +1,75 @@
+.menu {
+    width: 80%;
+    margin: auto;
+    max-width: 800px;
+    background-color: lightgreen;
+    padding: 20px
+}
+hr {
+    height: 2px;
+    border-color: lightgreen;
+}
+h1 {
+    text-align: center;
+    font-family: helvetica;
+}
+body {
+    background-image: url("https://images.unsplash.com/photo-1518972559570-7cc1309f3229?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bXVzaWMlMjBzdHVkaW98ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60");
+    background-position: center;
+    background-size: cover;
+    font-family: helvetica;
+    text-align: center;
+}
+.esta {
+    font-family: italic;
+}    
+.offer p {
+    display: inline-block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 18px;
+}
+.sound {
+    text-align: left;
+    width: 75%;
+}
+.price {
+    text-align: right;
+    width: 25%;
+}
+.location, li {
+    text-align: left;
+}
+.graphic p {
+    display: inline-block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 18px;
+}
+input[type="submit"] {
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 15px;
+}
+input[type="email"] {
+    color: black;
+    background-color: lightgreen;
+    font-size: 15px;
+    border-radius: 5px;
+}
+textarea {
+    background-color: lightgreen;
+    border-radius: 5px;
+    text-align: left;
+}
+/*footer*/
+a:hover {
+    color: black;
+}
+a:active {
+    color: black;
+}
+a:visited {
+    color: blue;
+}
